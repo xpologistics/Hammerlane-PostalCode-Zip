@@ -1,2 +1,3 @@
 # Hammerlane-PostalCode-Zip
-US_POSTALCODE_DETAILS.csv
+
+This is a public repository for accessing postal code info.
